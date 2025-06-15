@@ -28,4 +28,3 @@
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
 | [Move - App de Trânsito](https://www.figma.com/proto/...) | Aplicativo que ajuda moradores de Picos-PI a denunciar problemas no trânsito | Figma, Front-end Web |
-terminal | C, Git |
