@@ -13,7 +13,7 @@
 
 ---
 
-## 🛠️ Tecnologias que uso
+## 🛠️ Conhecimentos em aplicações e dados
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
