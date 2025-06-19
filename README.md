@@ -18,8 +18,6 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ---
 
