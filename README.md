@@ -6,7 +6,7 @@
 </div>
 
 
-- 💻 Atualmente estudando: **C, Python**
+- 💻 Atualmente estudando: **C, Python,Java**
 - 🚀 Projetos com foco em: **Aplicações web, automações e sistemas**
 - 📍 De: Ipiranga - PI, Brasil
 - 📬 Contato: acmrtins@gmail.com | 📱 (89) 98818-2450
