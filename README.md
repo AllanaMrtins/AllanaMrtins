@@ -7,10 +7,13 @@
 
 
 
+<div align="center">
 
-- 💻 Atualmente estudando: **C, Python,SQl**
-- 🚀 Projetos com foco em: **Aplicações web, automações e sistemas**
-- 📬 Contato: acmrtins@gmail.com | 📱 (89) 98818-2450
+<h3><i>C • Python • SQL · Desenvolvimento Web · Sistemas · Automações · Estudante de Sistemas de Informação</i></h3>
+
+<sub><i>acmrtins@gmail.com • (89) 98818-2450</i></sub>
+
+</div>
 
 ---
 
