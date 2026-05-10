@@ -48,7 +48,7 @@
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [Move - App de Trânsito](https://www.figma.com/proto/...) | Aplicativo que ajuda moradores de Picos-PI a denunciar problemas no trânsito | Figma, Front-end Web |
+| [Move - App de Trânsito](https://www.figma.com/proto/...) | Aplicativo que ajuda moradores de Picos-PI a denunciar problemas no trânsito | Figma |
 | [Criptografia Clássica em C](https://github.com/AllanaMrtins/gcc-main.c-cifras-cesar.c-cifras-vigenere.c--o-criptografia.git) | Comparação entre as cifras César e Vigenère, com código em C e análise de tempo de execução | C |
 | [Controle de Estoque](https://github.com/AllanaMrtins/controle-estoque-comercio) | Sistema em C para gerenciar produtos em estoque: adicionar, editar, buscar e remover produtos | C |
 | [Simulação de Concorrência com Threads](https://github.com/AllanaMrtins/Simula-o-de-Concorr-ncia-com-Threads.git) | Projeto com simulações utilizando threads, concorrência e sincronização de processos | Python, Threads |
