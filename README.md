@@ -1,4 +1,4 @@
-<h1 align = "center">Olá 👋, eu sou a Allana Martins</h1>
+<h1 align = "center">Olá, eu sou a Allana Martins</h1>
 <h3 align = "center">Técnica em Informática • Estudante de Sistemas de Informação</h3>
 
 <div align="center">
