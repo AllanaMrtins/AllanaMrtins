@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠️ Conhecimentos em aplicações e dados
+## ⌬ Conhecimentos em aplicações e dados
 <div style="display: inline_block"><br>
 <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
 <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
@@ -44,7 +44,7 @@
 </picture>
 
 ---
-## 🗂️ Meus projetos principais
+## 🗁 Meus projetos principais
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
