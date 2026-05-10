@@ -1,5 +1,9 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=8A2BE2&section=header"/>
+
 <h1 align = "center">Olá, eu sou a Allana Martins</h1>
-<h3 align = "center">Técnica em Informática • Estudante de Sistemas de Informação</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=T%C3%A9cnica+em+Inform%C3%A1tica;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o" />
+</p>
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300">
@@ -46,3 +50,5 @@
 | [Move - App de Trânsito](https://www.figma.com/proto/...) | Aplicativo que ajuda moradores de Picos-PI a denunciar problemas no trânsito | Figma, Front-end Web |
 | [Criptografia Clássica em C](https://github.com/AllanaMrtins/gcc-main.c-cifras-cesar.c-cifras-vigenere.c--o-criptografia.git) | Comparação entre as cifras César e Vigenère, com código em C e análise de tempo de execução | C |
 | [Controle de Estoque](https://github.com/AllanaMrtins/controle-estoque-comercio) | Sistema em C para gerenciar produtos em estoque: adicionar, editar, buscar e remover produtos | C |
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=8A2BE2&section=header"/>
