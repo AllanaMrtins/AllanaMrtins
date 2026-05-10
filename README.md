@@ -13,11 +13,14 @@
 ---
 
 ## 🛠️ Conhecimentos em aplicações e dados
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+<div style="display: inline_block"><br>
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
+<img width="40" src="https://github.com/user-attachments/assets/edad0579-8946-4dc9-b66e-78a5440b8552" />
+</div>
 ---
 
 <picture>
