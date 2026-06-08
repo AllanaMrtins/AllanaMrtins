@@ -53,5 +53,6 @@
 | [Controle de Estoque](https://github.com/AllanaMrtins/controle-estoque-comercio) | Sistema em C para gerenciar produtos em estoque: adicionar, editar, buscar e remover produtos | C |
 | [Simulação de Concorrência com Threads](https://github.com/AllanaMrtins/Simula-o-de-Concorr-ncia-com-Threads.git) | Projeto com simulações utilizando threads, concorrência e sincronização de processos | Python, Threads |
 | [Trabalho POO API](https://github.com/mayandev1/Trabalho-POO-API.git) | Projeto desenvolvido com foco em Programação Orientada a Objetos e integração com API | Python, API, POO |
+| [Pokédex com API Pokémon](https://github.com/AllanaMrtins/Pokedex-com-Menu) | Aplicação em Python que consulta Pokémons pela PokéAPI, exibindo informações detalhadas e imagens oficiais através de um menu interativo | Python, POO, API REST, Requests, Pillow, Matplotlib, Rich |
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=0:000000,100:8A2BE2&section=header"/>
