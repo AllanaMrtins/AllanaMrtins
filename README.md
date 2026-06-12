@@ -11,7 +11,7 @@
 
 <h3><i>C • Python • SQL · Desenvolvimento Web · Sistemas · Automações · Estudante de Sistemas de Informação</i></h3>
 
-<sub><i>acmrtins@gmail.com • (89) 98818-2450</i></sub>
+<sub><i>acmrtins@gmail.com</i></sub>
 
 </div>
 
@@ -54,5 +54,6 @@
 | [Simulação de Concorrência com Threads](https://github.com/AllanaMrtins/Simula-o-de-Concorr-ncia-com-Threads.git) | Projeto com simulações utilizando threads, concorrência e sincronização de processos | Python, Threads |
 | [Trabalho POO API](https://github.com/mayandev1/Trabalho-POO-API.git) | Projeto desenvolvido com foco em Programação Orientada a Objetos e integração com API | Python, API, POO |
 | [Pokédex com API Pokémon](https://github.com/AllanaMrtins/Pokedex-com-Menu) | Aplicação em Python que consulta Pokémons pela PokéAPI, exibindo informações detalhadas e imagens oficiais através de um menu interativo | Python, POO, API REST, Requests, Pillow, Matplotlib, Rich |
+| [Sistema Bancario com menu interativo](https://github.com/AllanaMrtins/Pokedex-com-Menu) | Aplicação em Python com menu interativo que simula um sistema bancario | Python3, POO|
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=0:000000,100:8A2BE2&section=header"/>
