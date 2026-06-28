@@ -48,12 +48,13 @@
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [Move - App de Trânsito](https://www.figma.com/proto/...) | Aplicativo que ajuda moradores de Picos-PI a denunciar problemas no trânsito | Figma |
 | [Criptografia Clássica em C](https://github.com/AllanaMrtins/gcc-main.c-cifras-cesar.c-cifras-vigenere.c--o-criptografia.git) | Comparação entre as cifras César e Vigenère, com código em C e análise de tempo de execução | C |
 | [Controle de Estoque](https://github.com/AllanaMrtins/controle-estoque-comercio) | Sistema em C para gerenciar produtos em estoque: adicionar, editar, buscar e remover produtos | C |
 | [Simulação de Concorrência com Threads](https://github.com/AllanaMrtins/Simula-o-de-Concorr-ncia-com-Threads.git) | Projeto com simulações utilizando threads, concorrência e sincronização de processos | Python, Threads |
 | [Trabalho POO API](https://github.com/mayandev1/Trabalho-POO-API.git) | Projeto desenvolvido com foco em Programação Orientada a Objetos e integração com API | Python, API, POO |
 | [Pokédex com API Pokémon](https://github.com/AllanaMrtins/Pokedex-com-Menu) | Aplicação em Python que consulta Pokémons pela PokéAPI, exibindo informações detalhadas e imagens oficiais através de um menu interativo | Python, POO, API REST, Requests, Pillow, Matplotlib, Rich |
-| [Sistema Bancario com menu interativo](https://github.com/AllanaMrtins/Pokedex-com-Menu) | Aplicação em Python com menu interativo que simula um sistema bancario | Python3, POO|
+| [Sistema Bancario com menu interativo](https://github.com/AllanaMrtins/Pokedex-com-Menu) | Aplicação em Python com menu interativo que simula um sistema bancário | Python3, POO|
+| [SIGMON - Sistema de Gerenciamento de Monitoria](https://github.com/AllanaMrtins/Trabalho-SO-Python-mongodb.git) | Aplicação web para cadastro de alunos, monitores e atendimentos acadêmicos, com banco de dados distribuído em Replica Set | Python, Flask, MongoDB, Docker |
+| [Sistema de Gerenciamento Imobiliário](https://github.com/mayandev1/Trabalho-Final-POO-I.git) | Sistema em Python para gerenciamento de uma imobiliária, com cadastro de clientes, proprietários e imóveis, realização de negociações, geração de relatórios e persistência em JSON | Python 3, POO, JSON |
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=0:000000,100:8A2BE2&section=header"/>
