@@ -52,6 +52,8 @@ class Allana:
   <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask-Dark.svg" title="Flask"/>
   &nbsp;
   <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" title="Git"/>
+  <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" title="Java"/>
+  &nbsp;
 </div>
 
 ---
@@ -75,6 +77,7 @@ class Allana:
 ### 🟣 Python
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
+| [Jogo da Cobra Pixel](https://github.com/AllanaMrtins/jogo_da_cobra_pixel) | Jogo da cobrinha desenvolvido em Python com interface retrô inspirada em jogos 8-bit, sistema de pontuação, recorde e controles via teclado utilizando Pyglet. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pyglet](https://img.shields.io/badge/Pyglet-00A98F?style=flat-square) |
 | [Simulação de Concorrência com Threads](https://github.com/AllanaMrtins/Simula-o-de-Concorr-ncia-com-Threads.git) | Simulações com threads, concorrência e sincronização de processos | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Threads](https://img.shields.io/badge/Threads-8A2BE2?style=flat-square) |
 | [Pokédex com API Pokémon](https://github.com/AllanaMrtins/Pokedex-com-Menu) | Consulta Pokémons pela PokéAPI com imagens e menu interativo | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![API](https://img.shields.io/badge/API_REST-8A2BE2?style=flat-square) |
 | [Sistema Bancário](https://github.com/AllanaMrtins/Pokedex-com-Menu) | Menu interativo que simula operações de um sistema bancário | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![POO](https://img.shields.io/badge/POO-8A2BE2?style=flat-square) |
@@ -85,11 +88,6 @@ class Allana:
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
 | [SIGMON - Gerenciamento de Monitoria](https://github.com/AllanaMrtins/Trabalho-SO-Python-mongodb.git) | Aplicação web para cadastro de alunos, monitores e atendimentos com banco distribuído em Replica Set | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-
-### 🎨 Design
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| [Move - App de Trânsito](https://www.figma.com/proto/...) | Aplicativo para moradores de Picos-PI denunciarem problemas no trânsito | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
 
 ---
 
