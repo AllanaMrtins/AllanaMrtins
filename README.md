@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Técnica+em+Informática;Estudante+de+Sistemas+de+Informação+%40+UFPI;C+•+Python+•+SQL+•+Desenvolvimento+Web;Apaixonada+por+código+e+tecnologia+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Técnica+em+Informática;Estudante+de+Sistemas+de+Informação+%40+UFPI;C+•+Python+•+SQL+•+Desenvolvimento+Web" />
 </p>
 
 <div align="center">
