@@ -89,6 +89,10 @@ class Allana:
 |--------|-----------|-------------|
 | [SIGMON - Gerenciamento de Monitoria](https://github.com/AllanaMrtins/Trabalho-SO-Python-mongodb.git) | Aplicação web para cadastro de alunos, monitores e atendimentos com banco distribuído em Replica Set | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 
+### 🗄️ Banco de Dados (SQL)
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| [Sistema de Biblioteca](https://github.com/Kellyy-E/BD-I.git) | Projeto de Banco de Dados para gerenciamento de uma biblioteca, contemplando modelagem, criação do banco, consultas SQL e manipulação dos dados. | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square) |
 ---
 
 
