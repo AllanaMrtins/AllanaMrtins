@@ -54,6 +54,8 @@ class Allana:
   <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" title="Git"/>
   <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" title="Java"/>
   &nbsp;
+  <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" title="MySQL"/>
+  &nbsp;
 </div>
 
 ---
