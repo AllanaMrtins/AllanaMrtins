@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="mailto:acmrtins@gmail.com">
-    <img src="https://img.shields.io/badge/acmrtins@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/acmrtins@gmail.com-2D1B4E?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/AllanaMrtins">
     <img src="https://img.shields.io/badge/GitHub-AllanaMrtins-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
