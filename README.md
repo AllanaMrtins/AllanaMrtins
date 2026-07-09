@@ -95,6 +95,11 @@ class Allana:
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
 | [Sistema de Biblioteca](https://github.com/Kellyy-E/BD-I.git) | Projeto de Banco de Dados para gerenciamento de uma biblioteca, contemplando modelagem, criação do banco, consultas SQL e manipulação dos dados. | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square) |
+
+### 🎨 Design
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| [Céu Estrelado Interativo](https://github.com/AllanaMrtins/C-u-estrelado-interativo-.git) | Site de constelações em pixel art: catálogo de constelações clássicas, criador interativo para desenhar as suas e galeria com salvamento no navegador | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 ---
 
 
